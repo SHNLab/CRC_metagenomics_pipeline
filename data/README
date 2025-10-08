@@ -19,9 +19,7 @@ data/
 ├── multiqc/                 # Quality control summary report (HTML, logs)
 │
 │
-├── abundances/               # Representative raw sequencing reads (subset)
+├── abundances/               # Contains species- and genus-level abundance tables generated from Kraken2 and Bracken outputs
 │   ├── CRC/
 │   └── Healthy/
 │   └── ...
-│
-└── README.md                # This file
