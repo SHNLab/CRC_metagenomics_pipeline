@@ -1,0 +1,27 @@
+This directory contains all raw and reference datasets required for the CRC Metagenomics Pipeline.
+To ensure repository portability and manageable size, only a representative subset of the original dataset is included.
+data/
+├── agora2/                  # Subset of AGORA2 microbial metabolic models
+│   ├── README.md             # Notes on model subset and download source
+│   ├── Bacillus_subtilis.mat
+│   ├── Bacteroides_fragilis.mat
+│   └── ...
+│
+├── diets/                   # Dietary flux constraint files for FBA
+│   ├── HFD_FLUX.tsv
+│   ├── VEGAN_FLUX.tsv
+│   └── ...
+│
+├── raw_fastq/               # Representative raw sequencing reads (subset)
+│   ├── CRC/
+│   └── Healthy/
+│
+├── multiqc/                 # Quality control summary report (HTML, logs)
+│
+│
+├── abundances/               # Representative raw sequencing reads (subset)
+│   ├── CRC/
+│   └── Healthy/
+│   └── ...
+│
+└── README.md                # This file
