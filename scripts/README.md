@@ -14,5 +14,5 @@ The `R` folder includes scripts for:
 - Merging, filtering, and normalizing datasets
 - Any other R-based analysis used in the study
 
-##FBA/ 
+## FBA/ 
 Contains scripts related to Flux Balance Analysis (FBA) simulations, including diet-specific metabolic modeling and SCFA predictions.
