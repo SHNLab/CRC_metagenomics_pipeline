@@ -17,7 +17,7 @@ scripts/ # R scripts and FBA code for processing and simulations
 
 ### data/
 This folder contains all raw and processed data necessary for reproducible microbiome and metabolic modeling analysis.  
-**Note:** Only a subset of 5 CRC and 5 healthy samples is included here for demonstration purposes, to reduce repository size and make it easier to download and navigate. Full datasets can be retrieved from the NCBI SRA as indicated in the methodology.  
+**Note:** Only a subset is included here for demonstration purposes, to reduce repository size and make it easier to download and navigate. Full datasets can be retrieved from the NCBI SRA as indicated in the methodology.  
 
 Subfolders include:  
 - `abundance/` – Species- and genus-level abundance tables from Kraken2/Bracken  
