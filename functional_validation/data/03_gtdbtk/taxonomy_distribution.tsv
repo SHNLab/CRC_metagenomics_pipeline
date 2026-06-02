@@ -1,0 +1,13 @@
+taxonomic_level	cohort	n_mags_classified	n_unique_taxa	pct_resolution
+phylum	CRC	84	6	100.0
+phylum	Healthy	142	8	100.0
+class	CRC	84	7	100.0
+class	Healthy	142	10	100.0
+order	CRC	84	9	100.0
+order	Healthy	142	13	100.0
+family	CRC	84	20	100.0
+family	Healthy	142	21	100.0
+genus	CRC	84	30	100.0
+genus	Healthy	142	34	100.0
+species	CRC	83	44	98.8
+species	Healthy	142	68	100.0

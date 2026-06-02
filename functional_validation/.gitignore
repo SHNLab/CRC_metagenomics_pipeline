@@ -1,0 +1,15 @@
+# Large intermediate files - regenerate via pipeline
+data/01_humann3/crc_ec_cpm.tsv
+data/01_humann3/healthy_ec_cpm.tsv
+data/01_humann3/crc_pathabundance_cpm.tsv
+data/01_humann3/healthy_pathabundance_cpm.tsv
+data/04_agora_parsing/agora_model_ecs.tsv
+data/07_sample_metadata/sample_humann3_ecs.tsv
+data/07_sample_metadata/sample_agora_ecs_filtered.tsv
+
+# OS junk
+.DS_Store
+
+# Python cache
+__pycache__/
+*.pyc

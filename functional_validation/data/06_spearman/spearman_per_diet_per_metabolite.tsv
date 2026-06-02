@@ -1,0 +1,36 @@
+diet	metabolite	n_samples	n_ec_markers	n_pwy_markers	rho_ec_vs_flux	p_ec_vs_flux	rho_pwy_vs_flux	p_pwy_vs_flux
+FIBER	Butyrate	129	3	4	0.016	8.53e-01	-0.148	9.38e-02
+FIBER	Acetate	129	2	3	-0.061	4.94e-01	-0.261	2.83e-03
+FIBER	Propionate	129	1	2				
+FIBER	Succinate	129	2	1	0.027	7.63e-01	0.052	5.58e-01
+FIBER	Hydrogen sulfide	129	1	0	-0.293	7.62e-04		
+FIBER	Trimethylamine	129	1	0	0.039	6.62e-01		
+FIBER	Putrescine	129	2	2	-0.263	2.58e-03	-0.035	6.91e-01
+GLUTENFREE	Butyrate	129	3	4	0.038	6.70e-01	-0.129	1.45e-01
+GLUTENFREE	Acetate	129	2	3	-0.408	1.63e-06	-0.295	6.80e-04
+GLUTENFREE	Propionate	129	1	2				
+GLUTENFREE	Succinate	129	2	1	0.076	3.90e-01	-0.102	2.51e-01
+GLUTENFREE	Hydrogen sulfide	129	1	0	-0.213	1.54e-02		
+GLUTENFREE	Trimethylamine	129	1	0	0.17	5.44e-02		
+GLUTENFREE	Putrescine	129	2	2	-0.056	5.30e-01	0.312	3.26e-04
+HFD	Butyrate	129	3	4	0.037	6.80e-01	-0.124	1.63e-01
+HFD	Acetate	129	2	3	-0.097	2.74e-01	-0.086	3.30e-01
+HFD	Propionate	129	1	2				
+HFD	Succinate	129	2	1	0.104	2.39e-01	-0.02	8.22e-01
+HFD	Hydrogen sulfide	129	1	0	-0.051	5.68e-01		
+HFD	Trimethylamine	129	1	0	-0.459	4.65e-08		
+HFD	Putrescine	129	2	2	-0.105	2.38e-01	0.024	7.91e-01
+PROTEIN	Butyrate	129	3	4	0.027	7.58e-01	-0.128	1.47e-01
+PROTEIN	Acetate	129	2	3	-0.352	4.32e-05	-0.15	9.03e-02
+PROTEIN	Propionate	129	1	2				
+PROTEIN	Succinate	129	2	1	0.096	2.78e-01	-0.072	4.15e-01
+PROTEIN	Hydrogen sulfide	129	1	0	-0.184	3.63e-02		
+PROTEIN	Trimethylamine	129	1	0	0.169	5.60e-02		
+PROTEIN	Putrescine	129	2	2	-0.191	3.05e-02	0.013	8.82e-01
+VEGAN	Butyrate	129	3	4	0.011	9.05e-01	-0.092	2.98e-01
+VEGAN	Acetate	129	2	3	0.231	8.46e-03	0.337	9.36e-05
+VEGAN	Propionate	129	1	2				
+VEGAN	Succinate	129	2	1	-0.012	8.91e-01	-0.13	1.42e-01
+VEGAN	Hydrogen sulfide	129	1	0	-0.174	4.90e-02		
+VEGAN	Trimethylamine	129	1	0	0.201	2.25e-02		
+VEGAN	Putrescine	129	2	2	0.045	6.10e-01	0.401	2.45e-06

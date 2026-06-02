@@ -1,0 +1,8 @@
+metabolite	n_diets_ec	median_rho_ec	max_abs_rho_ec	n_diets_pwy	median_rho_pwy	max_abs_rho_pwy
+Butyrate	5	0.027	0.038	5	-0.128	-0.148
+Acetate	5	-0.097	-0.408	5	-0.15	0.337
+Propionate	0			0		
+Succinate	5	0.076	0.104	5	-0.072	-0.13
+Hydrogen sulfide	5	-0.184	-0.293	0		
+Trimethylamine	5	0.169	-0.459	0		
+Putrescine	5	-0.105	-0.263	5	0.024	0.401

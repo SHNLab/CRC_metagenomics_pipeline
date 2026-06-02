@@ -1,0 +1,15 @@
+metabolite	group	n_samples	both	agora_only	humann3_only	neither	pct_concordant	pct_agora_supported_by_humann3
+Butyrate	CRC	26	26	0	0	0	100.0	100.0
+Butyrate	Healthy	103	100	3	0	0	97.1	97.1
+Acetate	CRC	26	26	0	0	0	100.0	100.0
+Acetate	Healthy	103	103	0	0	0	100.0	100.0
+Propionate	CRC	26	25	1	0	0	96.2	96.2
+Propionate	Healthy	103	88	15	0	0	85.4	85.4
+Succinate	CRC	26	26	0	0	0	100.0	100.0
+Succinate	Healthy	103	103	0	0	0	100.0	100.0
+H2S	CRC	26	12	14	0	0	46.2	46.2
+H2S	Healthy	103	86	17	0	0	83.5	83.5
+TMA	CRC	26	20	6	0	0	76.9	76.9
+TMA	Healthy	103	42	61	0	0	40.8	40.8
+Putrescine	CRC	26	26	0	0	0	100.0	100.0
+Putrescine	Healthy	103	103	0	0	0	100.0	100.0
